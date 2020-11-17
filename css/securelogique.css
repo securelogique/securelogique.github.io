@@ -1,0 +1,66 @@
+body {
+  font-family: 'Avenir W01', Avenir, Helvetica, sans-serif;
+}
+#banner {
+  background-color: #fff;
+  color: #000;
+}
+#separator {
+  background-color: #000;
+  color: #fff;
+}
+.service {
+  background-color: #efefef;
+  padding-bottom: 20px;
+}
+#footer {
+  background-color: #008000;
+  color: #fff;
+}
+.line-separator {
+  height: 4px;
+  background: #008000;
+  border-bottom: 1px solid #313030;
+}
+a:link {
+  color: #008000;
+}
+a:visited {
+  color: #0b7519;
+}
+#lang-selector a:link {
+  color: #fff;
+}
+#lang-selector a:visited {
+  color: #fff;
+}
+.row.heading {
+  margin-bottom: 50px;
+}
+.line-separator.page-separator {
+  margin-top: 50px;
+  margin-top: 50px;
+}
+.container.page {
+  min-height: 300px;
+  margin-bottom: 10px;
+}
+#biographies {
+  margin-top: 15px;
+}
+.social {
+  margin-top: 12px;
+}
+a.social-icon {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+#footer {
+  padding-top: 15px;
+}
+#footer a:link {
+  color: #fff;
+}
+#footer a:visited {
+  color: #fff;
+}
